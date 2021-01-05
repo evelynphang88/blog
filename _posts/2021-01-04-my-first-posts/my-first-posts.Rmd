@@ -76,7 +76,7 @@ Notice that beside quality and type, the rest of the variables are numerical and
 
 # 4.0 Univariate EDA with Histogram
 
-In the figure below, multiple histograms are plottted to reveal the distribution of the selected variables in the wine quality data sets.  
+In the figure below, teting12345 multiple histograms are plottted to reveal the distribution of the selected variables in the wine quality data sets.  
 
 ```{r, echo=FALSE, message=FALSE,  layout="1-body-outset",fig.width=12, fig.height=6}
 fa <- ggplot(data=wine, aes(x= `fixed acidity`)) +
