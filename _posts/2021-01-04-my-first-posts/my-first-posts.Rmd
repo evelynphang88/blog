@@ -38,7 +38,7 @@ In this hands-on exercise, you will learn how to plot data visualisation for vis
 
 #  2.0 Installing and Launching R Packages
 
-Before you get started, you are required::::**********
+Before you get started, you are required::::**********999999
 
 - to start a new R project, and
 - to create a new R Markdown document.
